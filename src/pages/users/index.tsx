@@ -101,7 +101,7 @@ export default function UserList() {
             </Flex>
           ) : error ? (
             <Flex justify="center">
-              <Text>Falha ao obter dados paralistagem de usuários</Text>
+              <Text>Falha ao obter dados para listagem de usuários</Text>
             </Flex>
           ) : (
             <>
