@@ -7,9 +7,11 @@ import { makeServer } from "../services/mirage";
 import { QueryClientProvider } from "react-query";
 import { queryClient } from "../services/queryClient";
 
-if (process.env.NODE_ENV === "development") {
-  makeServer();
-}
+// if (process.env.NODE_ENV === "development") {
+//   makeServer();
+// }
+
+makeServer();
 
 function MyApp({ Component, pageProps }: AppProps) {
   return (
