@@ -9,6 +9,10 @@
 </p>
 
 
+
+
+
+
 ## Tecnologias aplicadas
 
 <ul>
@@ -20,6 +24,10 @@
     <a href="https://miragejs.com">Mirage</a>
   </li>
 </ul>
+
+
+## Link de acesso
+<a href="https://dashgo-psi-five.vercel.app/dashboard" target="_blank">DashGo</a>
 
 
 ## Preview
